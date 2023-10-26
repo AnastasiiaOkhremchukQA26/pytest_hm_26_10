@@ -1,6 +1,4 @@
 import pytest
-from selenium import webdriver
-
 
 # Перший тест
 @pytest.mark.addition
